@@ -1,3 +1,9 @@
 # TensorFlow and Deep Learning Malaysia Meetup September 2018
 
-Introduction to Recommender System
+- 20th September 2018
+- ASEAN Data Analytics Exchange (ADAX)
+- Talk: "Introduction to Recommender System""
+
+<a href="https://www.facebook.com/groups/TensorFlowMY/">TensorFlow & Deep Learning Malaysia Group Facebook Page</a>
+
+<a href="https://www.meetup.com/tensorflow-deep-learning-malaysia/">TensorFlow & Deep Learning Malaysia Meetup Page/a>
